@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+langchain
+openai
+chromadb
+polars
+llama-index
+notebook
+python-dotenv
+unstructured
